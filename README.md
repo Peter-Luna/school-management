@@ -27,3 +27,5 @@ To learn more about Next.js, take a look at the following resources:
 
 
 注意：data.ts文件中的calendarEvents，要修改日期为当前的日期
+
+Learn from [Next.js School Management Dashboard UI Design Tutorial | React Next.js Responsive Admin Dashboard](https://www.youtube.com/watch?v=myYlGLFxZas)
